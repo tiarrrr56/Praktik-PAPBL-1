@@ -1,3 +1,9 @@
+# PRAKTIK PAPBL LKM 1 aplikasi Flutter Pertama
+
+1. 26105009 - Tiar Al Farizi Yanwar
+2. 26105003 - Abdul Rano Aldinno Paputungan
+3. 26105007 - Brilian Satria Pamungkas
+
 # halo_flutter
 
 A new Flutter project.
